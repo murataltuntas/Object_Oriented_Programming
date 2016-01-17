@@ -1,0 +1,4 @@
+all:
+	g++ -c HW07_111044043_List.cpp HW07_111044043_DocumentIndex.cpp HW07_111044043_TEST.cpp
+	g++ -o HW07 HW07_111044043_List.o HW07_111044043_DocumentIndex.o HW07_111044043_TEST.o
+	./HW07

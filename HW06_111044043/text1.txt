@@ -1,0 +1,19 @@
+17
+20
+                    
+XXXXXX              
+     X              
+     XXXX           
+     X              
+           XXX      
+XXXXXX     XXX      
+      XXXXXX        
+        XX  X X     
+    XXXX            
+        XXXXX       
+         XX         
+       XXX          
+      XXXX          
+                    
+                    
+                    

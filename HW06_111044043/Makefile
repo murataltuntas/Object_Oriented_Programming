@@ -1,0 +1,4 @@
+make:
+	g++ -c HW06_111044043_GameOfLife.cpp HW06_111044043_Cell.cpp HW06_111044043_TEST.cpp
+	g++ -o hw06 HW06_111044043_GameOfLife.o HW06_111044043_Cell.o HW06_111044043_TEST.o
+	./hw06
